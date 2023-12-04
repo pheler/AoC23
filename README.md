@@ -12,3 +12,10 @@ Day 1:
 Day 2:
   P1: Success 1st try
   P2: Success 1st try
+
+Day 3:
+  P1: Failed repeatedly - debugging statement not helpful
+  P2: No attempt
+
+Day3:
+  P1:
